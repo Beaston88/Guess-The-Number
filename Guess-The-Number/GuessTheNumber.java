@@ -62,5 +62,4 @@ public class GuessTheNumber {
         System.out.println("No of guesses you required is : " + myGame.get());
     }
 }
-    
 
